@@ -1,4 +1,4 @@
-package ArrayHourglass;
+package arrayHourglass;
 
 public class Solution {
     static int hourglassSum(int[][] arr) {

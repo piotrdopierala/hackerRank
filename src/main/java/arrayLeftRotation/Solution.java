@@ -1,4 +1,4 @@
-package ArrayLeftRotation;
+package arrayLeftRotation;
 
 public class Solution {
     static int[] rotLeft(int[] a, int d) {

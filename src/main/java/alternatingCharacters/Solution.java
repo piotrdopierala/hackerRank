@@ -1,4 +1,4 @@
-package AlternatingCharacters;
+package alternatingCharacters;
 
 public class Solution {
 

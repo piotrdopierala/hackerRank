@@ -1,4 +1,4 @@
-package MinimumSwaps2;
+package stringManipulation.minimumSwaps2;
 
 public class Solution {
     static int minimumSwaps(int[] arr) {
